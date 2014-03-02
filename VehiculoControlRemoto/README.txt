@@ -24,6 +24,8 @@ Para varios comandos van separados por ; => <Desplazamiento>,<Direccion>;<Despla
   5,E;2,N;3,S;1,E 
   etc.
 ***********************************************
+El Desplazamiento es el número de pasos(casillas) a mover en la superficie, si se desea mover 5 pasos al sur, el comando será 5,S
+
 
        N
        |
@@ -44,7 +46,7 @@ SUPERFICIE nxm
 0,0
 
 
-El Desplazamiento es el número de pasos(casillas) a mover en la superficie, si se desea mover 5 pasos al sur, el comando será 5,S
+
 
 Para TERMINAR LA EJECUCION DEL PROGRAMA, digitar la letra: T 
 
