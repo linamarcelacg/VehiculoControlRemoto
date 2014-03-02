@@ -33,7 +33,16 @@ Para varios comandos van separados por ; => <Desplazamiento>,<Direccion>;<Despla
        S
 
 
-El Desplazamiento es el numero de pasos(casillas) a mover en la superficie, si se desea mover 5 pasos al sur, el comando será 5,S
+Superficie nxm
+   _______
+  |_|_|_|_|
+  |_|_|_|_|
+  |_|_|_|_|
+  |_|_|_|_| Posición inicial: El vehículo inicia su recorrido desde la parte inferior izquierda de la matriz ó punto 0,0
+0,0
+
+
+El Desplazamiento es el número de pasos(casillas) a mover en la superficie, si se desea mover 5 pasos al sur, el comando será 5,S
 
 Para SALIR, digitar la letra: T 
 
