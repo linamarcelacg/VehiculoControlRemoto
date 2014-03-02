@@ -33,12 +33,14 @@ Para varios comandos van separados por ; => <Desplazamiento>,<Direccion>;<Despla
        S
 
 
-Superficie nxm
+SUPERFICIE nxm
+
+ Posición inicial: El vehículo inicia su recorrido desde la parte inferior izquierda de la matriz ó punto 0,0
    _______
   |_|_|_|_|
   |_|_|_|_|
   |_|_|_|_|
-  |_|_|_|_| Posición inicial: El vehículo inicia su recorrido desde la parte inferior izquierda de la matriz ó punto 0,0
+  |_|_|_|_| 
 0,0
 
 
