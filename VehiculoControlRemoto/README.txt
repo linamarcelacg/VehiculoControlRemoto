@@ -46,7 +46,7 @@ SUPERFICIE nxm
 
 El Desplazamiento es el número de pasos(casillas) a mover en la superficie, si se desea mover 5 pasos al sur, el comando será 5,S
 
-Para SALIR, digitar la letra: T 
+Para TERMINAR LA EJECUCION DEL PROGRAMA, digitar la letra: T 
 
 
 
