@@ -56,9 +56,9 @@ public class VehiculoControlRemoto {
 			}
 			if(desplazamiento>0)
 			{
-				System.out.print("\n\t##Se ha detenido el avance por salir de los límites");
+				System.out.print("\n   --Se ha detenido el avance por salir de los límites");
 			}
-			System.out.print("\n posicion del automovil:("+posfila+","+poscolumna+")");
+			System.out.print("\n Comando:"+comando+ "  Posicion final del automovil:("+posfila+","+poscolumna+")\n");
 					 
 			break;
 			
@@ -75,9 +75,9 @@ public class VehiculoControlRemoto {
 			}
 			if(desplazamiento>0)
 			{
-				System.out.print("\n\t##Se ha detenido el avance por salir de los límites");
+				System.out.print("\n   --Se ha detenido el avance por salir de los límites");
 			}
-			System.out.print("\n posicion del automovil:("+posfila+","+poscolumna+")");
+			System.out.print("\n Comando:"+comando+ "  Posicion final del automovil:("+posfila+","+poscolumna+")\n");
 			break;
 			
 		case "E":
@@ -93,9 +93,9 @@ public class VehiculoControlRemoto {
 			}
 			if(desplazamiento>0)
 			{
-				System.out.print("\n\t##Se ha detenido el avance por salir de los límites");
+				System.out.print("\n   --Se ha detenido el avance por salir de los límites");
 			}
-			System.out.print("\n posicion del automovil:("+posfila+","+poscolumna+")");
+			System.out.print("\n Comando:"+comando+ "  Posicion final del automovil:("+posfila+","+poscolumna+")\n");
 			
 			break;
 			
@@ -112,9 +112,9 @@ public class VehiculoControlRemoto {
 			}
 			if(desplazamiento>0)
 			{
-				System.out.print("\n\t##Se ha detenido el avance por salir de los límites");
+				System.out.print("\n   --Se ha detenido el avance por salir de los límites");
 			}
-			System.out.print("\n posicion del automovil:("+posfila+","+poscolumna+")");
+			System.out.print("\n Comando:"+comando+ "  Posicion final del automovil:("+posfila+","+poscolumna+")\n");
 			break;
 		default:break;
 		}
